@@ -15,7 +15,7 @@
 1. `maps-baseline-dls.ipynb` - ноутбук с обучением и инференсом бейзлайна (трансформер + полносвязные слои)
 2. `agent-v0-dls.ipynb` - ноутбук с созданием и инференсом нулевой версии агента (можно отнести к сильному бейзлайну, агент не принимает решение о поиске информации в интернете)
 3. `agent_v1_dls.ipynb` - ноутбук с созданием и инференсом первой версии агента
-4. `agent_v2_dls.ipynb` - ноутбук с созданием и инференсом второй версии агента (в гите может не отображаться, можно посмотреть по ссылке `https://colab.research.google.com/drive/1-RaHaWSZcDoYrfaUVPh3YyHh5NaC0en4?usp=sharing`)
+4. `agent_v2_dls.ipynb` - ноутбук с созданием и инференсом второй версии агента (в гите может не отображаться, можно (и лучше) посмотреть по ссылке `https://colab.research.google.com/drive/1-RaHaWSZcDoYrfaUVPh3YyHh5NaC0en4?usp=sharing`)
 
 Дополнительные файлы в датасете на kaggle: `https://www.kaggle.com/datasets/kislovka/dls-project-ds/data`
 
